@@ -1,3 +1,11 @@
+> **⚠️ [Looking for a new maintainer for this project | 寻找新的维护者](https://github.com/miao1007/Openwrt-NetKeeper/issues/239) ⚠️**
+>
+> This project is currently in need of a new maintainer. Due to limited time and resources, I am unable to actively maintain and support it going forward. If you are interested in taking over maintenance, please see [issue #239](https://github.com/miao1007/Openwrt-NetKeeper/issues/239) for details.
+>
+> 如果你有兴趣接手维护本项目，请参见 [#239](https://github.com/miao1007/Openwrt-NetKeeper/issues/239)。
+
+---
+
 # Openwrt-NetKeeper
 
 > Search for Ubuntu Version? click [here](https://github.com/Ljqiii/Netkepper-Ubuntu)
